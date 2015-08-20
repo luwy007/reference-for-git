@@ -1,2 +1,2 @@
-# reference-for-git
-some reference for git
+# reference-to-git
+some reference to git
